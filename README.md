@@ -1,2 +1,2 @@
 # Find-Your-Emoji
-Created with CodeSandbox
+An app built using HTML, CSS, REACT JS that displays meaning of the emoji you choose.
